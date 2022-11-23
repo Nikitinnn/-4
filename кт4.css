@@ -1,0 +1,41 @@
+a{
+    color:black;
+    text-align: center;
+    font-size: 40px;
+}
+header{
+    background-color: rgb(89, 156, 255);
+    color: black;
+    padding: 20px 30px;
+}
+h1{
+text-align: center;
+font-size: 50px;
+}
+h3{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px 135px;
+}
+.cards{
+ 
+    display: flex;
+    gap:70px;
+    flex-wrap: wrap;
+    margin-left: 220px;
+}
+.item{
+    height: 230px;
+    background-color: rgb(145, 149, 255);
+    display: flex;
+    color: rgb(255, 255, 255);
+    align-items:center ;
+    justify-content: center;
+    width:calc(35% - 25px);
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613218974_110-p-fon-sinii-so-svetlim-125.jpg);
+}
+.item1{
+    margin-top: 10px;
+    margin-right: 50px;
+    font-size: 15px;
+}
